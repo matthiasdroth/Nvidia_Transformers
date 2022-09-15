@@ -6,7 +6,7 @@
 
 ## The course ...
 
-... (see [here](https://www.nvidia.com/en-us/training/instructor-led-workshops/natural-language-processing/)) is fast paced but very well structured. The topics are:
+... (see [here](https://www.nvidia.com/en-us/training/instructor-led-workshops/natural-language-processing/) and [there](https://www.nvidia.com/content/dam/en-zz/Solutions/deep-learning/deep-learning-education/dli-building-transformer-based-natural-language-1370520-r3-web-3.pdf)) is fast paced but very well structured. The topics are:
 
 - Machine Learning in NLP
 - Self-Supervision, BERT, and Beyond
