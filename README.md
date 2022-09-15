@@ -14,6 +14,6 @@ See [here](https://www.nvidia.com/en-us/training/instructor-led-workshops/natura
 - Self-Supervision, BERT, and Beyond
 - Production Deployment
 
-For each of these topics, free access to a deep learning cloud computing platform with topical Jupyter notebooks is provided so course participants can apply their new knowledge. These _Labs_ feature challenges that test the understanding. After these Labs, the knowledge is assessed via a multiple choice test (30%) and a final lab with further challenges (70%).
+For each of these topics, free access to a deep learning cloud computing platform with topical Jupyter notebooks is provided so course participants can apply their new knowledge. These _Labs_ feature challenges that test the understanding. After these Labs, the knowledge is assessed via a multiple choice test (30%) and a final lab with further challenges (70%). A total score of 70% is required to earn the [certificate](https://github.com/matthiasdroth/Nvidia_Transformers/blob/master/Certificate%209631dd2e65324e3cbc352df537e10a4c.pdf).
 
 All materials – in particular also to the cloud computing platform with accelerated computing – are available until 6 months after the course.
